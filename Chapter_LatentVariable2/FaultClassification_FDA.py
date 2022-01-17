@@ -73,7 +73,7 @@ xmeas = TEdata_Fault5_test[:,0:22]
 xmv = TEdata_Fault5_test[:,41:52]
 data_Faulty_test = np.hstack((xmeas, xmv))
 
-#%% scale data and fit LDA model
+#%% scale data and transform
 Faultydata_test_scaled = scaler.transform(data_Faulty_test)
 scores_test_lda = lda.transform(Faultydata_test_scaled)
 
