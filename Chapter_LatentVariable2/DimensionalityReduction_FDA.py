@@ -80,7 +80,7 @@ data_Faulty_test = np.hstack((xmeas, xmv))
 n_rows_test = TEdata_Fault5_test.shape[0]
 y_test = np.concatenate((5*np.ones(n_rows_test,), 10*np.ones(n_rows_test,), 19*np.ones(n_rows_test,)))
 
-#%% scale data, fit LDA & PCA models
+#%% scale data, transform via LDA & PCA models
 Faultydata_test_scaled = scaler.transform(data_Faulty_test)
 scores_test_lda = lda.transform(Faultydata_test_scaled)
 scores_test_pca = pca.transform(Faultydata_test_scaled)
