@@ -12,6 +12,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
              
 - *Pulp & Paper Manufacturing Process Data*:
        Obtained from https://openmv.net. 
+       
        Original source: Dayal et al. "Application of feedforward neural networks and partial least squares regression for modelling Kappa number in a continuous Kamyr                       digester", Pulp and Paper Canada, 95, 1994, p T7-T13.
        
            
@@ -20,17 +21,22 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 
            
 - *Tennessee Eastman Process Data*: 
-       Available at https://github.com/camaramm/tennessee-eastman-profBraatz. Bigger dataset provided by Reith, C.A., B.D. Amsel, R. Tran., and B. Maia. Additional Tennessee                       Eastman process simulation data for anomaly detection evaluation. Harvard Dataverse, Version 1, 2017
+       Available at https://github.com/camaramm/tennessee-eastman-profBraatz. Bigger dataset available at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6C3JR1
+       
+       Reith, C.A., B.D. Amsel, R. Tran., and B. Maia. Additional Tennessee Eastman process simulation data for anomaly detection evaluation. Harvard Dataverse, Version 1, 2017
        
 - *Semiconductor Manufacturing Process Data*: 
        Obtained from http://www.eigenvector.com/data/Etch/. 
-       Original source: B.M. Wise, N.B. Gallagher, S.W. Butler, D.D. White, Jr. and G.G. Barna, "A Comparison of Principal Components Analysis, Multi-way Principal Components               Analysis, Tri-linear Decomposition and Parallel Factor Analysis for Fault Detection in a Semiconductor Etch Process", J. Chemometrics (1999).
+       
+       B.M. Wise, N.B. Gallagher, S.W. Butler, D.D. White, Jr. and G.G. Barna, "A Comparison of Principal Components Analysis, Multi-way Principal Components               Analysis, Tri-linear Decomposition and Parallel Factor Analysis for Fault Detection in a Semiconductor Etch Process", J. Chemometrics (1999).
        
 - *Polymer Pilot Plant Data*:
        Obtained from ftp://ftp.cis.upenn.edu/pub/ungar/chemdata/
   
 - *Debutanizer Column Data from a Petroleum Refinery*:
-       Available as supplementary material at https://link.springer.com/book/10.1007/978-1-84628-480-9. Originally provided by Fortuna et. al., Soft sensors for monitoring and              control of industrial processes, Springer, 2007
+       Available as supplementary material at https://link.springer.com/book/10.1007/978-1-84628-480-9. 
+       
+       Fortuna et. al., Soft sensors for monitoring and control of industrial processes, Springer, 2007
        
 - *Concrete Compressive Strength Data*:
        Available at the UCI machine learning repository https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
