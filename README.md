@@ -28,15 +28,24 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
        
 - *Polymer Pilot Plant Data*:
        Obtained from ftp://ftp.cis.upenn.edu/pub/ungar/chemdata/
-       Source Information
-              --  Creator: Dupont
-              -- Donor: Lyle H. Ungar (ungar@cis.upenn.edu) (215) 89807449
-              -- Date: October, 1994
+  
+- *Debutanizer Column Data from a Petroleum Refinery*:
+       Available as supplementary material at https://link.springer.com/book/10.1007/978-1-84628-480-9. Originally provided by Fortuna et. al., Soft sensors for monitoring and              control of industrial processes, Springer, 2007
+       
+- *Concrete Compressive Strength Data*:
+       Available at the UCI machine learning repository https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
 
--	Debutanizer Column Data from a Petroleum Refinery
--	Concrete Compressive Strength Data
--	Wastewater Treatment Plant Data
--	Combined Cycle Power Plant data
--	SISO Heater System Data
--	Gas Turbine Data
+- *Wastewater Treatment Plant Data*:
+       Available at the UCI machine learning repository https://archive.ics.uci.edu/ml/datasets/water+treatment+plant
+       
+- *Combined Cycle Power Plant data*:
+       Available at the UCI machine learning repository https://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant
+       
+- *SISO Heater System Data*:
+       Provided by Prof. John Hedengren at https://apmonitor.com/do/index.php/Main/LSTMNetwork
+       
+- *Gas Turbine Data*:
+       Available at NASA prognostics data repository https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
+       
+       A. Saxena and K. Goebel (2008). "Turbofan Engine Degradation Simulation Data Set", NASA Ames Prognostics Data Repository (http://ti.arc.nasa.gov/project/prognostic-data-repository), NASA Ames Research Center, Moffett Field, CA
 
