@@ -7,10 +7,12 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 ## Data sources for datasets used in this book:
 - Polymer Manufacturing Process Data  
        Originally obtained from https://landing.umetrics.com/downloads-other-downloads
+       
        Referenced at https://www.academia.edu/38630159/Multivariate_data_analysis_wiki
        
 -	Pulp & Paper Manufacturing Process Data
        Obtained from https://openmv.net
+       
        Original source: Dayal et al. "Application of feedforward neural networks and partial least squares regression for modelling Kappa number in a continuous Kamyr digester",                           Pulp and Paper Canada, 95, 1994, p T7-T13.
        
 -	Low-Density Polyethylene (LDPE) Process Data
