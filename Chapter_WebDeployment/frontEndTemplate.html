@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="refresh" content="30">
+
+<style>
+	body 
+	{
+	  font-family: Arial;
+	  text-align: center;
+	}
+	
+	#topHeader
+	{
+      padding: 15px;
+	  background: #1abc9c;
+	  color: white;
+	  font-size: 30px;
+	}
+</style>
+
+<script>
+    function toggleDisp(imgID) {
+        var x = document.getElementById(imgID);
+        if (x.style.display == "none") {
+            x.style.display = "block"; }
+        else {
+            x.style.display = "none"; }
+    }  
+</script>
+
+</head>
+
+<body>
+	<h1 id='topHeader'> Smart Process Monitoring Tool </h1>
+	
+	{% if state == 0 %}
+		<p style="color:green;"> <b> All Good </b> </p> <br> 
+	{% else %}
+		<p style="color:red;"> <b> Issue Detected </b> </p> <br> 
+	{% endif %}
+	
+	<center> <img src="/metricPlot.png" height="300" width="1450"> </center> <br> <br>
+	
+	<button type="button" onclick="toggleDisp('contri_img')"> Show/Hide Contribution Plot </button> <br> <br> <br>
+	
+	<center> <img id='contri_img' src="/contributionPlot.png" style="display: none;" height="300" width="1350"> </center>
+	
+</body>
+</html>
