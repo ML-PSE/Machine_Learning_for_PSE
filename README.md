@@ -51,7 +51,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
        Provided by Prof. John Hedengren at https://apmonitor.com/do/index.php/Main/LSTMNetwork. Direct links for the training and validation data: https://apmonitor.com/do/uploads/Main/tclab_dyn_data3.txt and  https://apmonitor.com/pdc/uploads/Main/tclab_data4.txt. File names will need to be changed to match the ones used in the text. 
        
 - *Gas Turbine Data*:
-       Available at NASA prognostics data repository https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
+       Available at NASA prognostics data repository https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/. Training and validation data file names used in the text are different than the original file names. 
        
        A. Saxena and K. Goebel (2008). "Turbofan Engine Degradation Simulation Data Set", NASA Ames Prognostics Data Repository (http://ti.arc.nasa.gov/project/prognostic-data-repository), NASA Ames Research Center, Moffett Field, CA
 
