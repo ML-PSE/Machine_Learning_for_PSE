@@ -48,7 +48,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
        Available at the UCI machine learning repository https://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant
        
 - *SISO Heater System Data*:
-       Provided by Prof. John Hedengren at https://apmonitor.com/do/index.php/Main/LSTMNetwork
+       Provided by Prof. John Hedengren at https://apmonitor.com/do/index.php/Main/LSTMNetwork. Direct link for the training and validation data: https://apmonitor.com/do/uploads/Main/tclab_dyn_data3.txt and  https://apmonitor.com/pdc/uploads/Main/tclab_data4.txt. File names will need to be changed to match the ones used in the text. 
        
 - *Gas Turbine Data*:
        Available at NASA prognostics data repository https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
