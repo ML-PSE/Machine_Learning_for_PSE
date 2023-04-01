@@ -23,7 +23,7 @@ print(arr1D.shape) # returns tuple(3,) corresponding to 3 items
 # creating sequence of numbers
 arr1 = np.arange(3, 6) # same as Python range function; results in array([3,4,5])
 arr2 = np.arange(3, 9, 2) # the 3rd argument defines the step size; results in array([3,5,7])
-arr3 = np.linspace(1,7,3) # creates evenly spaced 3 values from 1 to 9; results in array([1,4,7])
+arr3 = np.linspace(1,7,3) # creates evenly spaced 3 values from 1 to 7; results in array([1,4,7])
 
 # creating special arrays
 arr4 = np.ones((2,1)) # array of shape (2,1) with all items as 1
