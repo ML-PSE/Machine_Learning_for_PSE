@@ -14,7 +14,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 - *Pulp & Paper Manufacturing Process Data*:
        Obtained from https://openmv.net. 
        
-       Dayal et al. "Application of feedforward neural networks and partial least squares regression for modelling Kappa number in a continuous Kamyr                       digester", Pulp and Paper Canada, 95, 1994, p T7-T13.
+       Dayal et al. "Application of feedforward neural networks and partial least squares regression for modelling Kappa number in a continuous Kamyr digester", Pulp and Paper Canada, 95, 1994, p T7-T13.
        
            
 - *Low-Density Polyethylene (LDPE) Process Data*:
@@ -22,12 +22,14 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 
            
 - *Tennessee Eastman Process Data*: 
-       Available at https://github.com/camaramm/tennessee-eastman-profBraatz. Bigger dataset available at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6C3JR1. Reith, C.A., B.D. Amsel, R. Tran., and B. Maia. Additional Tennessee Eastman process simulation data for anomaly detection evaluation. Harvard Dataverse, Version 1, 2017
+       Available at https://github.com/camaramm/tennessee-eastman-profBraatz. Bigger dataset available at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6C3JR1. 
+       
+       Reith, C.A., B.D. Amsel, R. Tran., and B. Maia. Additional Tennessee Eastman process simulation data for anomaly detection evaluation. Harvard Dataverse, Version 1, 2017
        
 - *Semiconductor Manufacturing Process Data*: 
        Obtained from http://www.eigenvector.com/data/Etch/. 
        
-       B.M. Wise, N.B. Gallagher, S.W. Butler, D.D. White, Jr. and G.G. Barna, "A Comparison of Principal Components Analysis, Multi-way Principal Components               Analysis, Tri-linear Decomposition and Parallel Factor Analysis for Fault Detection in a Semiconductor Etch Process", J. Chemometrics (1999).
+       B.M. Wise, N.B. Gallagher, S.W. Butler, D.D. White, Jr. and G.G. Barna, "A Comparison of Principal Components Analysis, Multi-way Principal Components analysis, Tri-linear Decomposition and Parallel Factor Analysis for Fault Detection in a Semiconductor Etch Process", J. Chemometrics (1999).
        
 - *Polymer Pilot Plant Data*:
        Obtained from ftp://ftp.cis.upenn.edu/pub/ungar/chemdata/
@@ -47,7 +49,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
        Available at the UCI machine learning repository https://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant
        
 - *SISO Heater System Data*:
-       Provided by Prof. John Hedengren at https://apmonitor.com/do/index.php/Main/LSTMNetwork. Direct links for the training and validation data: https://apmonitor.com/do/uploads/Main/tclab_dyn_data3.txt and  https://apmonitor.com/pdc/uploads/Main/tclab_data4.txt. File names will need to be changed to match the ones used in the text. 
+       Provided by Prof. John Hedengren at https://apmonitor.com/do/index.php/Main/LSTMNetwork. Direct links for the training and validation data: https://apmonitor.com/do/uploads/Main/tclab_dyn_data3.txt and  https://apmonitor.com/pdc/uploads/Main/tclab_data4.txt. File names will need to be changed to match the ones used in the book. 
        
 - *Gas Turbine Data*:
        Available at NASA prognostics data repository https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/. Training and validation data file names used in the text are different than the original file names. 
