@@ -15,7 +15,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 
        Obtained from https://openmv.net. 
        
-       Dayal et al. "Application of feedforward neural networks and partial least squares regression for modelling Kappa number in a continuous Kamyr digester", Pulp and Paper Canada, 95, 1994, p T7-T13.
+       [Citation] Dayal et al. "Application of feedforward neural networks and partial least squares regression for modelling Kappa number in a continuous Kamyr digester", Pulp and Paper Canada, 95, 1994, p T7-T13.
        
            
 - *Low-Density Polyethylene (LDPE) Process Data*:
@@ -27,13 +27,13 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 
        Available at https://github.com/camaramm/tennessee-eastman-profBraatz. Bigger dataset available at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6C3JR1. 
        
-       Reith, C.A., B.D. Amsel, R. Tran., and B. Maia. Additional Tennessee Eastman process simulation data for anomaly detection evaluation. Harvard Dataverse, Version 1, 2017
+       [Citation] Reith, C.A., B.D. Amsel, R. Tran., and B. Maia. Additional Tennessee Eastman process simulation data for anomaly detection evaluation. Harvard Dataverse, Version 1, 2017
        
 - *Semiconductor Manufacturing Process Data*: 
 
        Obtained from http://www.eigenvector.com/data/Etch/. 
        
-       B.M. Wise, N.B. Gallagher, S.W. Butler, D.D. White, Jr. and G.G. Barna, "A Comparison of Principal Components Analysis, Multi-way Principal Components analysis, Tri-linear Decomposition and Parallel Factor Analysis for Fault Detection in a Semiconductor Etch Process", J. Chemometrics (1999).
+       [Citation] B.M. Wise, N.B. Gallagher, S.W. Butler, D.D. White, Jr. and G.G. Barna, "A Comparison of Principal Components Analysis, Multi-way Principal Components analysis, Tri-linear Decomposition and Parallel Factor Analysis for Fault Detection in a Semiconductor Etch Process", J. Chemometrics (1999).
        
 - *Polymer Pilot Plant Data*:
 
@@ -43,7 +43,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 
        Available as supplementary material at https://link.springer.com/book/10.1007/978-1-84628-480-9. 
        
-       Fortuna et. al., Soft sensors for monitoring and control of industrial processes, Springer, 2007
+       [Citation] Fortuna et. al., Soft sensors for monitoring and control of industrial processes, Springer, 2007
        
 - *Concrete Compressive Strength Data*:
 
@@ -65,5 +65,5 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 
        Available at NASA prognostics data repository https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/. Training and validation data file names used in the text are different than the original file names. 
        
-       A. Saxena and K. Goebel (2008). "Turbofan Engine Degradation Simulation Data Set", NASA Ames Prognostics Data Repository (http://ti.arc.nasa.gov/project/prognostic-data-repository), NASA Ames Research Center, Moffett Field, CA
+       [Citation] A. Saxena and K. Goebel (2008). "Turbofan Engine Degradation Simulation Data Set", NASA Ames Prognostics Data Repository (http://ti.arc.nasa.gov/project/prognostic-data-repository), NASA Ames Research Center, Moffett Field, CA
 
