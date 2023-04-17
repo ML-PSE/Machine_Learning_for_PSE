@@ -12,6 +12,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
        
              
 - *Pulp & Paper Manufacturing Process Data*:
+
        Obtained from https://openmv.net. 
        
        Dayal et al. "Application of feedforward neural networks and partial least squares regression for modelling Kappa number in a continuous Kamyr digester", Pulp and Paper Canada, 95, 1994, p T7-T13.
