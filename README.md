@@ -6,6 +6,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 
 ## Data sources for datasets used in this book:
 - *Polymer Manufacturing Process Data*:  
+
        Originally obtained from https://landing.umetrics.com/downloads-other-downloads (unfortunately this link no longer seems to work; data file is provided in the respective folder in this repository). 
        Dataset also referenced at https://www.academia.edu/38630159/Multivariate_data_analysis_wiki
        
@@ -21,9 +22,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 
            
 - *Tennessee Eastman Process Data*: 
-       Available at https://github.com/camaramm/tennessee-eastman-profBraatz. Bigger dataset available at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6C3JR1
-       
-       Reith, C.A., B.D. Amsel, R. Tran., and B. Maia. Additional Tennessee Eastman process simulation data for anomaly detection evaluation. Harvard Dataverse, Version 1, 2017
+       Available at https://github.com/camaramm/tennessee-eastman-profBraatz. Bigger dataset available at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6C3JR1. Reith, C.A., B.D. Amsel, R. Tran., and B. Maia. Additional Tennessee Eastman process simulation data for anomaly detection evaluation. Harvard Dataverse, Version 1, 2017
        
 - *Semiconductor Manufacturing Process Data*: 
        Obtained from http://www.eigenvector.com/data/Etch/. 
