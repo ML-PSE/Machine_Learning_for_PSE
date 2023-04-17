@@ -33,7 +33,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 
        Obtained from http://www.eigenvector.com/data/Etch/. 
        
-       [Citation] B.M. Wise, N.B. Gallagher, S.W. Butler, D.D. White, Jr. and G.G. Barna, "A Comparison of Principal Components Analysis, Multi-way Principal Components analysis, Tri-linear Decomposition and Parallel Factor Analysis for Fault Detection in a Semiconductor Etch Process", J. Chemometrics (1999).
+       Citation: B.M. Wise, N.B. Gallagher, S.W. Butler, D.D. White, Jr. and G.G. Barna, "A Comparison of Principal Components Analysis, Multi-way Principal Components analysis, Tri-linear Decomposition and Parallel Factor Analysis for Fault Detection in a Semiconductor Etch Process", J. Chemometrics (1999).
        
 - *Polymer Pilot Plant Data*:
 
@@ -43,7 +43,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 
        Available as supplementary material at https://link.springer.com/book/10.1007/978-1-84628-480-9. 
        
-       [Citation] Fortuna et. al., Soft sensors for monitoring and control of industrial processes, Springer, 2007
+       Citation: Fortuna et. al., Soft sensors for monitoring and control of industrial processes, Springer, 2007
        
 - *Concrete Compressive Strength Data*:
 
@@ -65,5 +65,5 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 
        Available at NASA prognostics data repository https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/. Training and validation data file names used in the text are different than the original file names. 
        
-       [Citation] A. Saxena and K. Goebel (2008). "Turbofan Engine Degradation Simulation Data Set", NASA Ames Prognostics Data Repository (http://ti.arc.nasa.gov/project/prognostic-data-repository), NASA Ames Research Center, Moffett Field, CA
+       Citation: A. Saxena and K. Goebel (2008). "Turbofan Engine Degradation Simulation Data Set", NASA Ames Prognostics Data Repository (http://ti.arc.nasa.gov/project/prognostic-data-repository), NASA Ames Research Center, Moffett Field, CA
 
