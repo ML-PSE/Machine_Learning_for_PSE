@@ -7,7 +7,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 ## Data sources for datasets used in this book:
 - *Polymer Manufacturing Process Data*:  
 
-       Originally obtained from https://landing.umetrics.com/downloads-other-downloads (unfortunately this link no longer seems to work; data file is provided in the respective folder in this repository). 
+       Originally obtained from [https://landing.umetrics.com/downloads-other-downloads] (https://landing.umetrics.com/downloads-other-downloads) (unfortunately this link no longer seems to work; data file is provided in the respective folder in this repository). 
        Dataset also referenced at https://www.academia.edu/38630159/Multivariate_data_analysis_wiki
        
              
