@@ -15,7 +15,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 
        Obtained from https://openmv.net. 
        
-       [Citation] Dayal et al. "Application of feedforward neural networks and partial least squares regression for modelling Kappa number in a continuous Kamyr digester", Pulp and Paper Canada, 95, 1994, p T7-T13.
+       Citation: Dayal et al. "Application of feedforward neural networks and partial least squares regression for modelling Kappa number in a continuous Kamyr digester", Pulp and Paper Canada, 95, 1994, p T7-T13.
        
            
 - *Low-Density Polyethylene (LDPE) Process Data*:
@@ -27,7 +27,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 
        Available at https://github.com/camaramm/tennessee-eastman-profBraatz. Bigger dataset available at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6C3JR1. 
        
-       [Citation] Reith, C.A., B.D. Amsel, R. Tran., and B. Maia. Additional Tennessee Eastman process simulation data for anomaly detection evaluation. Harvard Dataverse, Version 1, 2017
+       Citation: Reith, C.A., B.D. Amsel, R. Tran., and B. Maia. Additional Tennessee Eastman process simulation data for anomaly detection evaluation. Harvard Dataverse, Version 1, 2017
        
 - *Semiconductor Manufacturing Process Data*: 
 
