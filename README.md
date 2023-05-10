@@ -5,8 +5,8 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 ![](/Images/coverPage.JPG)
 
 ## Book Links:
-- *Google Play*:  
-- *LeanPub*:  
+- *Google Play*:  https://play.google.com/store/books/details?id=K_NjEAAAQBAJ
+- *LeanPub*:  https://leanpub.com/machineLearningPSE
 
 ## Data sources for datasets used in this book:
 - *Polymer Manufacturing Process Data*:  
