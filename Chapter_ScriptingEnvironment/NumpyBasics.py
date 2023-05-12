@@ -55,7 +55,7 @@ print((arr8[0,1:3])) # note that a 1D array is returned here instead of the 2D a
 
 # accessing entire row or column
 print(arr8[1]) # returns 2nd row as array([5,6,7,8,9]); same as arr8[1,:]
-print(arr8[:, 4]) # returns items of 3rd column as a 1D array 
+print(arr8[:, 4]) # returns items of 5th column as a 1D array 
 
 # extract a subarray from arr8 and modify it
 arr8_sub = arr8[:, :2] # columns 0 and 1 from all rows
