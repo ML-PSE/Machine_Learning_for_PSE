@@ -9,7 +9,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 - *LeanPub*:  https://leanpub.com/machineLearningPSE
 
 ## Original data sources for datasets used in this book:
-[As can be understood, weblinks mentioned below may change or may no longer exist in future. Relevant data files have been provided in the respective folders in this repository.]
+[Weblinks mentioned below may change or may no longer exist in future. Relevant data files have been provided in the respective folders in this repository.]
 
 - *Polymer Manufacturing Process Data*:  
 
@@ -69,7 +69,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
        
 - *Gas Turbine Data*:
 
-       Available at NASA prognostics data repository https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/. Training and validation data file names used in the text are different than the original file names. 
+       Originally available at NASA prognostics data repository https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/. Training and validation data file names used in the text are different than the original file names. 
        
        Citation: A. Saxena and K. Goebel (2008). "Turbofan Engine Degradation Simulation Data Set", NASA Ames Prognostics Data Repository (http://ti.arc.nasa.gov/project/prognostic-data-repository), NASA Ames Research Center, Moffett Field, CA
 
