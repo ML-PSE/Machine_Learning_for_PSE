@@ -43,7 +43,7 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
        
 - *Polymer Pilot Plant Data*:
 
-       Obtained from ftp://ftp.cis.upenn.edu/pub/ungar/chemdata/
+       Originally obtained from ftp://ftp.cis.upenn.edu/pub/ungar/chemdata/
   
 - *Debutanizer Column Data from a Petroleum Refinery*:
 
