@@ -72,4 +72,6 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
        Originally available at NASA prognostics data repository https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/. Training and validation data file names used in the text are different than the original file names. 
        
        Citation: A. Saxena and K. Goebel (2008). "Turbofan Engine Degradation Simulation Data Set", NASA Ames Prognostics Data Repository (http://ti.arc.nasa.gov/project/prognostic-data-repository), NASA Ames Research Center, Moffett Field, CA
+       
+       License: [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
 
