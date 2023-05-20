@@ -54,6 +54,9 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 - *Concrete Compressive Strength Data*:
 
        Available at the UCI machine learning repository https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
+       
+       Copyright: Prof. I-Cheng Yeh
+       Citation: I-Cheng Yeh, "Modeling of strength of high performance concrete using artificial neural networks," Cement and Concrete Research, Vol. 28, No. 12, pp. 1797-1808 (1998)
 
 - *Wastewater Treatment Plant Data*:
 
@@ -62,6 +65,8 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
 - *Combined Cycle Power Plant data*:
 
        Available at the UCI machine learning repository https://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant
+       
+       Citation: Pınar Tüfekci, Prediction of full load electrical power output of a base load operated combined cycle power plant using machine learning methods, International Journal of Electrical Power & Energy Systems, Volume 60, September 2014, Pages 126-140, ISSN 0142-0615
        
 - *SISO Heater System Data*:
 
@@ -73,5 +78,5 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
        
        Citation: A. Saxena and K. Goebel (2008). "Turbofan Engine Degradation Simulation Data Set", NASA Ames Prognostics Data Repository (http://ti.arc.nasa.gov/project/prognostic-data-repository), NASA Ames Research Center, Moffett Field, CA
        
-       License: [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
+       License: CC0: Public Domain (https://creativecommons.org/publicdomain/zero/1.0/)
 
