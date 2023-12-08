@@ -73,7 +73,7 @@ def get_CL_via_KDE(metric_values, percentile, metricLabel):
     # find optimal KDE bandwidth via CV
     N = len(metric_values)
     empirical_h = 1.06*np.std(metric_values)*N**(1/5)
-    h_grid = np.linspace(0,5,50)*empirical_h 
+    h_grid = np.linspace(0.001,5,50)*empirical_h 
     
     grid = GridSearchCV(KernelDensity(),{'bandwidth': h_grid}, cv=N) # leave-one-out CV
     grid.fit(metric_values[:,None]) # 2D array is expected
