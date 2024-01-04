@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #%% fetch TE data
-TEdata_noFault_train = np.loadtxt('d00.dat').T # data arrnagement in d00.dat is different than that in other files
+TEdata_noFault_train = np.loadtxt('d00.dat').T # data arrangement in d00.dat is different than that in other files
 
 # select variables as done in Lee et al.
 xmeas = TEdata_noFault_train[:,0:22]
