@@ -74,7 +74,8 @@ Chapter-wise code repository for the book 'Machine Learning in Python for Proces
        
 - *Gas Turbine Data*:
 
-       Originally available at NASA prognostics data repository https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/. Training and validation data file names used in the text are different than the original file names. 
+       Originally available at NASA prognostics data repository https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/. Data available at https://data.nasa.gov/Aerospace/CMAPSS-Jet-Engine-Simulated-Data/ff5v-kuh6/about_data.
+       Training and validation data file names used in the text are different than the original file names. 
        
        Citation: A. Saxena and K. Goebel (2008). "Turbofan Engine Degradation Simulation Data Set", NASA Ames Prognostics Data Repository (http://ti.arc.nasa.gov/project/prognostic-data-repository), NASA Ames Research Center, Moffett Field, CA
        
