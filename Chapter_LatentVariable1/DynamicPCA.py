@@ -19,10 +19,10 @@ lag = 5
 N = data_train.shape[0]
 m = data_train.shape[1]
 
-data_train_augmented = np.zeros((N-lag+1,lag*m))
+data_train_augmented = np.zeros((N-lag,(lag+1)*m))
 
 for sample in range(lag, N):
-    dataBlock = data_train.iloc[sample-lag:sample,:].values # converting from pandas dataframe to numpy array
+    dataBlock = data_train.iloc[sample-lag:sample+1,:].values # converting from pandas dataframe to numpy array
     data_train_augmented[sample-lag,:] = np.reshape(dataBlock, (1,-1), order = 'F')
            
 #%% scale data
