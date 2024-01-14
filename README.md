@@ -2,7 +2,7 @@
 
 Chapter-wise code repository for the book 'Machine Learning in Python for Process Systems Engineering'
 
-![](/Images/ML-for-PSE-2023Edition-CoverPage.JPG)
+![](/Images/Book3_coverPage.JPG)
 
 ## Book Links:
 - *Google Play*:  https://play.google.com/store/books/details?id=K_NjEAAAQBAJ
